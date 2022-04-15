@@ -7,9 +7,7 @@
 [![identity16's GitHub stats](https://github-readme-stats.vercel.app/api?username=identity16&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -60,5 +58,5 @@ Mac                      14 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 15/04/2022 02:02:59 UTC
+ Last Updated on 15/04/2022 15:13:23 UTC
 <!--END_SECTION:waka-->
