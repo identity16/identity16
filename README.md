@@ -5,3 +5,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 [![identity16's GitHub stats](https://github-readme-stats.vercel.app/api?username=identity16&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
