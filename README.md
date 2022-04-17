@@ -6,6 +6,8 @@
 
 [![identity16's GitHub stats](https://github-readme-stats.vercel.app/api?username=identity16&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=identity16)](https://velog-readme-stats.vercel.app/api/redirect?name=identity16)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2031%20mins-blue)
 
