@@ -9,9 +9,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=identity16)](https://velog-readme-stats.vercel.app/api/redirect?name=identity16)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-262-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-268-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -62,5 +60,5 @@ Mac                      20 hrs 30 mins      ███████████�
 ```
 
 
- Last Updated on 17/04/2022 08:49:25 UTC
+ Last Updated on 17/04/2022 15:12:47 UTC
 <!--END_SECTION:waka-->
