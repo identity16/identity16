@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -66,6 +66,6 @@ Mac                      24 hrs 22 mins      ███████████�
 ```
 
 
- Last Updated on 15/05/2022 15:12:52 UTC
+ Last Updated on 16/05/2022 15:15:15 UTC
 <!--END_SECTION:waka-->
 
