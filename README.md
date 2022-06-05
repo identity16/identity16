@@ -12,6 +12,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=identity16)](https://velog-readme-stats.vercel.app/api/redirect?name=identity16)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@identity16/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@identity16/0" alt="Recent Article 0"></a>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
