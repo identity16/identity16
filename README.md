@@ -15,15 +15,15 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@identity16/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@identity16/0" alt="Recent Article 0"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **타임라인**
 
 ![Chart not found](https://raw.githubusercontent.com/identity16/identity16/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 15:15:29 UTC
+ Last Updated on 14/09/2022 15:19:09 UTC
 <!--END_SECTION:waka-->
 
